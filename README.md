@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I am a Developer!
 - 😄 ENFJ | Team Player | Strong Leadership Skills
 - Area of Expertise
- > Skilled in Java, Backend Developement, Agile Software Development, Jira, Firebase. Strong Android development professional with an interest in Open Source Domain,
+- > Skilled in Java, Backend Developement, Agile Software Development, Jira, Firebase. Strong Android development professional with an interest in Open Source Domain,
 graduating from UPES in 2021. 
 - 👯 I’m looking to collaborate with other developers
 - 🎶 I like listening music and have a keen interest in photography 📷
