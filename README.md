@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 graduating from UPES in 2021. 
 - 👯 I’m looking to collaborate with other developers
 - 🎶 I like listening music and have a keen interest in photography 📷
+------------------------------
 
 ### Languages and Tools:
 
@@ -39,7 +40,8 @@ graduating from UPES in 2021.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
-<br />
+
+------------------------------
 
 ### Connect with me:
 
@@ -49,13 +51,8 @@ graduating from UPES in 2021.
 [<img align="left" alt="Nikhil | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />][instagram]
 [<img align="left" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
 
-<br />
+------------------------------
 
-
-
-<br />
-
----
 <img align="left" alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NikhilMishra1999&show_icons=true&hide_border=ture&count_private=true&theme=dark&hide=stars,prs,issues,contribs" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMishra1999&theme=dark)
