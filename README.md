@@ -40,7 +40,6 @@ graduating from UPES in 2021.
 
 <br />
 
-
 ### Connect with me:
 
 [<img align="left" alt="Nikhil | Portfolio" width="22px" src="https://nikhil.studio/img/favicon-32x32.png" />][portfolio]
