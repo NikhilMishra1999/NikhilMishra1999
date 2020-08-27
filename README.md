@@ -50,9 +50,12 @@ graduating from UPES in 2021.
 [<img align="left" alt="Nikhil | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.ico" />][twitter]
 [<img align="left" alt="Nikhil | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
 [<img align="left" alt="Nikhil | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />][instagram]
-[<img align="left" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
 
 <br />
+
+------------------------------
+
+### Find my resume here: [<img align="center" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
 
 ------------------------------
 
