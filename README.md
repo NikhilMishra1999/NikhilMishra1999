@@ -63,6 +63,8 @@ graduating from UPES in 2021.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMishra1999&theme=dark)
 
+<img align="right" src="https://komarev.com/ghpvc/?username=NikhilMishra1999&color=blue">
+
 [twitter]: https://twitter.com/YoungstersInc17
 [instagram]: https://www.instagram.com/highfunctioning.psychopath/
 [linkedin]: https://www.linkedin.com/in/nikhilmishra1999/
