@@ -69,5 +69,4 @@ graduating from UPES in 2021.
 [instagram]: https://www.instagram.com/highfunctioning.psychopath/
 [linkedin]: https://www.linkedin.com/in/nikhilmishra1999/
 [portfolio]: https://nikhil.studio/
-[Resume]: https://drive.google.com/file/d/12LZkAamOmFPlXRlCna-8G15-ggMxJ59h/view?usp=sharing
-
+[Resume]: https://drive.google.com/file/d/1mE4Ke-2vKlHYktmrEg86S7bfOwq1P_Ww/view
