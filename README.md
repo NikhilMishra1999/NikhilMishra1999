@@ -47,15 +47,15 @@ graduating from UPES in 2021.
 ### Connect with me:
 
 <!-- [<img align="left" alt="Nikhil | Portfolio" width="22px" src="https://github.com/NikhilMishra1999/NikhilMishra1999/blob/master/favicon-32x32.png" />][portfolio] -->
-[<img align="left" alt="Nikhil | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.ico" />][twitter]
+<!-- [<img align="left" alt="Nikhil | Twitter" width="22px" src="https://abs.twimg.com/favicons/twitter.ico" />][twitter] -->
 [<img align="left" alt="Nikhil | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
 [<img align="left" alt="Nikhil | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />][instagram]
 
 <br />
 
-------------------------------
+<!-- ------------------------------ -->
 
-### Find my resume here: [<img align="center" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume]
+<!-- ### Find my resume here: [<img align="center" alt="Nikhil | Resume" width="22px" src="https://amritfoundationofindia.in/wp-content/uploads/2018/08/download-logo.png" />][Resume] -->
 
 ------------------------------
 
@@ -65,8 +65,8 @@ graduating from UPES in 2021.
 
 <img align="right" src="https://komarev.com/ghpvc/?username=NikhilMishra1999&color=blue">
 
-[twitter]: https://twitter.com/YoungstersInc17
+<!-- [twitter]: https://twitter.com/YoungstersInc17 -->
 [instagram]: https://www.instagram.com/highfunctioning.psychopath/
 [linkedin]: https://www.linkedin.com/in/nikhilmishra1999/
 [portfolio]: https://nikhil.studio/
-[Resume]: https://drive.google.com/file/d/1mE4Ke-2vKlHYktmrEg86S7bfOwq1P_Ww/view
+<!-- [Resume]: https://drive.google.com/file/d/1mE4Ke-2vKlHYktmrEg86S7bfOwq1P_Ww/view -->
